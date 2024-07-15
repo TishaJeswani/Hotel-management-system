@@ -1,4 +1,4 @@
-# Hostel Management System
+# Hotel Management System
 
 This project is a GUI application developed using Python and Tkinter. The system allows users to Login, manage customer details,room booking ,details in a hotel, Logout. It provides functionality for adding, updating, deleting, and resetting room details. Users can also view and search for specific details using a table interface.
 
